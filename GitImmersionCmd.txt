@@ -1,0 +1,14 @@
+# Github configuration
+#https://github.com/
+#user : gillef01@hotmail.fr / GiLe01
+#pwd : toto2014
+
+# NEW PC => need to re install lots of stuff
+# Let's start from sratch 
+# Configure GIT
+git config --global user.name "GiLe01"
+git config --global user.email "gillef01@hotmail.fr"
+
+# Configuration for windows user
+git config --global core.autocrlf true
+git config --global core.safecrlf true
